@@ -1,9 +1,9 @@
 ## Custom-Ai-Agent
-Custom Ai Agent using OpenAI, Langchain, streamlit, wikipedia.
+Custom Ai Agent using OpenAI, Langchain, Streamlit, Wikipedia.
 
 ## Overview
 
-This project is a Streamlit web app powered by OpenAI's GPT language model. It allows users to generate YouTube video titles and scripts based on a given topic. The app utilizes langchain's prompt templates, chains and memory mechanisms and Wikipedia API to enhance the quality and coherence of generated content.
+This web app is powered by OpenAI's GPT language model. It allows users to generate YouTube video titles and scripts based on a given topic. The app utilizes langchain's prompt templates, chains and memory mechanisms and Wikipedia API to enhance the quality and coherence of generated content.
 
 ## Prerequisites
 
