@@ -15,7 +15,7 @@ This web app is powered by OpenAI's GPT language model. It allows users to gener
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/tjdharani/Custom-Ai-Agent
+    git clone https://github.com/tjdharani/Custom-Ai-Agent.git
     cd Custom-Ai-Agent
     ```
 
